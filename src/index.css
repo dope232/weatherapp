@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Kanit:ital,wght@0,100;1,100&family=Montserrat:ital,wght@0,100;0,200;1,100&family=Open+Sans&family=Roboto:wght@300&family=Rubik+Doodle+Shadow&family=Rubik:wght@300;400&display=swap');

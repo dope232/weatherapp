@@ -1,4 +1,4 @@
-#Simple Weather app using Vite, WeatherAPI, Node, tailwindCSS 
+**Simple Weather app using Vite, WeatherAPI, Node, tailwindCSS**
 
 
 run using 
